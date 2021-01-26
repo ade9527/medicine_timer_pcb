@@ -1,0 +1,39 @@
+### Module positions - created on Sat Jan 23 15:51:11 2021 ###
+### Printed by Pcbnew version kicad 5.1.8
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val             Package                                            PosX       PosY       Rot  Side
+C5        22pF            C_0603_1608Metric                               88.9000  -108.9250  180.0000  bottom
+C6        22pF            C_0603_1608Metric                               95.6250  -108.9250    0.0000  bottom
+R8        10M             R_0603_1608Metric                               92.2750  -108.9250  180.0000  bottom
+Y1        8M              Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm    92.2000  -113.3750  180.0000  bottom
+C1        10uF            C_0603_1608Metric                              117.2500   -86.8000  270.0000  top
+C2        10uF            C_0603_1608Metric                              117.2500   -93.4000  270.0000  top
+C3        10uF            C_0603_1608Metric                               82.5250  -107.9000   90.0000  top
+C4        10uF            C_0603_1608Metric                              117.2500   -90.1750   90.0000  top
+C7        22pF            C_0603_1608Metric                               83.6000  -113.4750   90.0000  top
+C8        22pF            C_0603_1608Metric                               92.3000  -114.3000    0.0000  top
+C9        104             C_0603_1608Metric                              114.1750  -109.2750    0.0000  top
+D1        LED             LED_0603_1608Metric                            108.7250   -88.7750  180.0000  top
+D2        RED             LED_0603_1608Metric                             95.8250  -113.5625  270.0000  top
+D3        GREEN           LED_0603_1608Metric                            110.7125  -112.9750    0.0000  top
+D4        BLUE            LED_0603_1608Metric                            102.4000   -87.1750   90.0000  top
+D5        ZENER3          D_SOD-123                                      107.8750   -81.7500  180.0000  top
+J1        USB_B_Micro     USB_Micro-B_Molex_47346-0001                   100.0000   -78.8000  180.0000  top
+J2        Li_battery      SOIC-2                                         116.5000  -100.0000  180.0000  top
+R1        10K             R_0603_1608Metric                              108.7250   -87.0250  180.0000  top
+R2        2K              R_0603_1608Metric                              108.7250   -85.3000  180.0000  top
+R3        10K             R_0603_1608Metric                               98.8250  -114.3000  180.0000  top
+R4        10K             R_0603_1608Metric                              114.1500  -112.9500  180.0000  top
+R5        10K             R_0603_1608Metric                              104.4250   -87.2000   90.0000  top
+R6        10K             R_0603_1608Metric                              103.6750   -90.8250  180.0000  top
+R7        10K             R_0603_1608Metric                               82.5500  -104.3750  270.0000  top
+R9        10K             R_0603_1608Metric                              114.1750  -107.4500  180.0000  top
+R10       1.5K            R_0603_1608Metric                               97.3750   -84.6000    0.0000  top
+SW1       KEY             SW_SPST_Omron_B3FS-100xP                       100.0000  -100.0000  270.0000  top
+SW2       RESET           SW_SPST_FSMSM                                  107.4500   -98.7750   90.0000  top
+U1        XC6206PxxxMR    SOT-23                                         113.8750   -93.1250    0.0000  top
+U2        LTC4054ES5-4.2  TSOT-23-5                                      113.9000   -87.4750   90.0000  top
+U3        STM32F103C8Tx   LQFP-48_7x7mm_P0.5mm                            89.1500  -104.0500   90.0000  top
+Y2        32.768K         Crystal_SMD_3215-2Pin_3.2x1.5mm                 87.6000  -114.3000  180.0000  top
+## End
